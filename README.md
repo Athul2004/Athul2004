@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [SMART ENERGY GUARDIAN USING IOT](https://github.com/Athul2004/Smart_Energy_Guardian_Using_Iot?tab=readme-ov-file)
 
-- 👨‍💻 All of my projects are available at [https://athu1.netlify.app/](https://athu1.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio.](https://athu1.netlify.app/)
 
 - 💬 Ask me about **I'm studied Electronics and Communication Engineering at College of Engineering Chengannur and i Compassionate both WEB developing and embedded devoloping. our key skills, focusing on both embedded and WEB development.**
 
