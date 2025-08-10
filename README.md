@@ -7,11 +7,13 @@
 
 - 🌱 I’m currently learning **Electronics and Communication Engineering at College of Engineering Chengannur**
 
-- 👯 I’m looking to collaborate on [SMART ENERGY GUARDIAN USING IOT](https://github.com/Athul2004/Smart_Energy_Guardian_Using_Iot?tab=readme-ov-file)
+- 👯 My prestigious project was [SMART ENERGY GUARDIAN USING IOT](https://github.com/Athul2004/Smart_Energy_Guardian_Using_Iot?tab=readme-ov-file)
 
 - 👨‍💻 All of my projects are available at [My Portfolio.](https://athu1.netlify.app/)
 
-- 💬 Ask me about **I'm studied Electronics and Communication Engineering at College of Engineering Chengannur and i Compassionate both WEB developing and embedded devoloping. our key skills, focusing on both embedded and WEB development.**
+💬 My journey as an Electronics and Communication Engineering graduate from College of Engineering Chengannur. I’m an electronics enthusiast and Embedded System Software Engineering professional passionate about embedded systems, IoT, and VLSI design. I specialize in creating innovative solutions that seamlessly integrate intelligent hardware with efficient system design—covering areas from smart energy management to advanced automation.
+
+With hands-on expertise in ESP32,, Raspberry Pi Pico, FPGA, and VLSI, I focus on delivering practical, scalable, and impactful technologies that solve real-world challenges and push the boundaries of innovation. Alongside embedded systems, I’m passionate about developing content-driven software solutions that enhance user experience and functionality.
 
 - 📫 How to reach me **athul162004@gmail.com**
 
