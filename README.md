@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm ATHUL S</h1>
-<h3 align="center">My journey as both a web developer and embedded systems developer. Take a look to see how I bring the best of both worlds together!.</h3>
+<h3 align="center">My journey as an Embedded Systems, IoT, and VLSI developer. Take a look to see how I bring the best of cutting-edge hardware and software innovations together to build smarter solutions!
+
+"Engineering the future by connecting circuits and code — where innovation meets precision.".</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athul2004&label=Profile%20views&color=0e75b6&style=flat" alt="athul2004" /> </p>
 
