@@ -5,6 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athul2004&label=Profile%20views&color=0e75b6&style=flat" alt="athul2004" /> </p>
 
 <p align="left">
+    <a href="https://linkedin.com/in/athul-s-1638a1227" target="_blank" style="margin-left:10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Athul%20S-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://twitter.com/athuls68354](https://x.com/AthulS8435?t=v5bbQVIzqLyH96dv5obYDQ&s=08" target="_blank">
     <img src="https://img.shields.io/twitter/follow/athuls68354?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
@@ -13,12 +16,6 @@
   </a>
   <a href="https://wa.me/9188127331" target="_blank" style="margin-left:10px;">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://linkedin.com/in/athul-s-1638a1227" target="_blank" style="margin-left:10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-Athul%20S-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="tel:+91 9188127331" target="_blank" style="margin-left:10px;">
-    <img src="https://img.shields.io/badge/Phone-Call-blue?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
   </a>
 </p>
 
