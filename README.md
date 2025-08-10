@@ -10,7 +10,7 @@
 
 - 👯 My prestigious project was [SMART ENERGY GUARDIAN USING IOT](https://github.com/Athul2004/Smart_Energy_Guardian_Using_Iot?tab=readme-ov-file)
 
-- 👨‍💻 All of my projects are available at [My Portfolio.](https://athu1.netlify.app/)
+- 👨‍💻 Who I am — explore my work here: [Portfolio Link](https://athu1.netlify.app/)
 
 💬 My journey as an Electronics and Communication Engineering graduate from College of Engineering Chengannur. I’m an electronics enthusiast and Embedded System Software Engineering professional passionate about embedded systems, IoT, and VLSI design. I specialize in creating innovative solutions that seamlessly integrate intelligent hardware with efficient system design—covering areas from smart energy management to advanced automation.
 
